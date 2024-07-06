@@ -10,19 +10,42 @@
 
 # 👩‍💻 Projects:
 <div id="projects">
-  <table align="left" >
-    <tr border="none">
-      <td width="25%" align="center">
-        <p align="center">
-         <a href="https://gavrojas.github.io/Reto-codeable" title="Ver proyecto">
-            <img align="center" width="220" src="img/reto-codeable.png" alt="App Mis notas" /></a>
-        </p>
-        <h3 align="center">
-          <a href="https://gavrojas.github.io/Reto-codeable">Aplicación de notas</a>
-        </h3>       
-      </td>
-    </tr>
-  </table>
+  <ul>
+    <li>
+      <h3 >
+        <a href="https://github.com/GioSalcedo/TechRevamp">TechRevamp E-commerce</a>
+      </h3>
+      <p><strong>Plataforma de comercio electrónico desarrollada desde cero </strong>junto a 3 desarrolladores más. <br>Un sitio web que permite comprar y vender productos electrónicos usados, fomentando la sostenibilidad.</p>
+      <p><em>Uso de HTML, CSS, Javascript puro, bootstrap, Java, Spring Boot, MySQL.</em></p>
+      <p><em><strong>Estado del proyecto: </strong>En proceso</em></p>
+      <p><em><strong>Equipo: </strong>Arturo Navas, Nicole Rojas, Giovanny Salcedo, Gabriela Rojas</em></p>
+    </li>
+    <li>
+      <h3 >
+        <a href="https://gavrojas.github.io/Reto-codeable">Aplicación de notas</a>
+      </h3>
+      <p><strong>Reto Codeable:</strong> Crear una aplicación "Mis Notas" que permita ver notas creadas, crear nuevas y eliminarlas.<br><strong>Funcionalidad adicional:</strong> Edición de nota.</p>
+      <p><em>Uso de HTML, CSS y Javascript puro.</em></p>
+      <p><em><strong>Estado del proyecto: </strong>En proceso</em></p>
+    </li>
+    <li>
+      <h3 >
+        <a href="https://github.com/gavrojas/AgendaTelefonica">Sistema de agenda teléfonica</a>
+      </h3>
+      <p><strong>Hackaton de Java - Generation Colombia. </strong>Crear un sistema que permita gestionar una agenda telefónica.<br>Funcionalidades: Añadir, buscar, eliminar, validar existencia de contactos, revisar espacio en agenda.</p>
+      <p><em>Uso de Java.</em></p>
+      <p><em><strong>Estado del proyecto: </strong>Terminado</em></p>
+      <p><em><strong>Equipo: </strong>Yineth Duarte, Sara Salazar, Gabriela Rojas</em></p>
+    </li>
+    <li>
+      <h3 >
+        <a href="https://gavrojas.github.io/logica-programacion-2/">Conversor de temperatura</a>
+      </h3>
+      <p>Ejercicio de lógica, para conversión de temperatura Celsius, Kelvin y Fahrenheit.</p>
+      <p><em>Uso de HTML, Javascript y CSS puro.</em></p>
+      <p><em><strong>Estado del proyecto: </strong>En proceso</em></p>
+    </li>
+  </ul>
 </div>
 
 <br clear="both" />
