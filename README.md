@@ -15,7 +15,7 @@
       <td width="25%" align="center">
         <p align="center">
          <a href="https://gavrojas.github.io/Reto-codeable" target="_blank" title="Ver proyecto">
-            <img align="center" width=100% src="./img/reto-codeable.png"  alt="App Mis notas" /></a>
+            <img align="center" width="220" src="./img/reto-codeable.png"  alt="App Mis notas" /></a>
         </p>
         <h3 align="center">
           <a href="https://gavrojas.github.io/Reto-codeable" target="_blank">Mis notas</a>
