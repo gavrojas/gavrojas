@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ I am a curious, creative person and a lover of learning.<br>🚀 I'm currently learning technologies such as Go, Vue, TypeScript, PHP, and Python, among others.br>👯 I’m currently working as a Junior PHP Developer.<br>💬 Ask me about Web Development, Figma, and UX/UI design. <br>📫 How to reach me: grojas9807@gmail.com<br>😄 Pronouns: She/Her.
+✨ I am a curious, creative person and a lover of learning.<br>🚀 I'm currently learning technologies such as Go, Vue, TypeScript, PHP, and Python, among others. <br>👯 I’m currently working as a Junior PHP Developer.<br>💬 Ask me about Web Development, Figma, and UX/UI design. <br>📫 How to reach me: grojas9807@gmail.com<br>😄 Pronouns: She/Her.
 
 
 ## 🌐 Socials:
