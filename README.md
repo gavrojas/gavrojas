@@ -27,48 +27,48 @@
   <ul>
     <li>
       <h3 >
-        <a href="https://github.com/gavrojas/trucode3-challenge-final-codeable">Reto final Bootcamp Trucode</a>
+        <a href="https://github.com/gavrojas/trucode3-challenge-final-codeable">Final Challenge Bootcamp Trucode</a>
       </h3>
-      <p>La aplicación está diseñada para <strong>gestionar datos de un dataset creado por Barry Becker basado en un censo de 1994 que contiene más de 30.000 registros con datos demográficos<strong>, datos necesarios para comprender qué tipo de personas ganaban más o menos de $50,000 USD, entre otros.</p>
-      <h4>Tecnologías implementadas</h4>
+      <p>The application is designed to <strong>manage data from a dataset created by Barry Becker based on a 1994 census containing over 30,000 records with demographic data</strong>, which is necessary to understand what types of people earned more or less than $50,000 USD, among other things.</p>
+      <h4>Implemented Technologies</h4>
         <ul>
           <li><em></strong>Frontend: </strong></em>Vue 3, Pinia, Vue Router, Vuetify, Tailwind CSS, Vue echarts</li>
           <li><em></strong>Backend: </strong></em>Go, Gin, GORM</li>
-          <li><em></strong>Base de Datos: </strong></em>PostgreSQL</li>
-          <li><em></strong>Despliegue: </strong></em>Docker, AWS EC2, Vercel</li>
+          <li><em></strong>Database: </strong></em>PostgreSQL</li>
+          <li><em></strong>Deployment: </strong></em>Docker, AWS EC2, Vercel</li>
         </ul>
-      <p><em><strong>Estado del proyecto: </strong>Terminado</em></p>
-      <p><em><strong>Fecha finalización: </strong>noviembre 2024</em></p>
-      <a href="https://trucode-final-challenge-gavrojas.vercel.app">Despliegue</a>
+      <p><em><strong>Project Status: </strong>Terminado</em></p>
+      <p><em><strong>Completion Date: </strong>noviembre 2024</em></p>
+      <a href="https://trucode-final-challenge-gavrojas.vercel.app">Deployment page</a>
     </li>
     <li>
       <h3 >
         <a href="https://github.com/GioSalcedo/TechRevamp">TechRevamp E-commerce</a>
       </h3>
-      <p><strong>Plataforma de comercio electrónico desarrollada desde cero </strong>junto a 3 desarrolladores más. <br>Un sitio web que permite comprar y vender productos electrónicos usados, fomentando la sostenibilidad.</p>
-      <p><em>Uso de HTML, CSS, Javascript puro, bootstrap, Java, Spring Boot, MySQL.</em></p>
-      <p><em><strong>Estado del proyecto: </strong>Terminado</em></p>
-      <p><em><strong>Fecha finalización: </strong>julio 2024</em></p>
-      <p><em><strong>Equipo: </strong>Arturo Navas, Nicole Rojas, Giovanny Salcedo, Gabriela Rojas</em></p>
+      <p><strong>E-commerce platform developed from scratch</strong> along with 3 other developers. <br>A website that allows buying and selling used electronic products, promoting sustainability.</p>
+      <p><em>Use of HTML, CSS, pure Javascript, Bootstrap, Java, Spring Boot, MySQL.</em></p>
+      <p><em><strong>Project Status: </strong>Completed</em></p>
+      <p><em><strong>Completion Date: </strong>July 2024</em></p>
+      <p><em><strong>Team: </strong>Arturo Navas, Nicole Rojas, Giovanny Salcedo, Gabriela Rojas</em></p>
     </li>
     <li>
       <h3 >
-        <a href="https://gavrojas.github.io/Reto-codeable">Aplicación de notas</a>
+        <a href="https://gavrojas.github.io/Reto-codeable">Notes app</a>
       </h3>
-      <p><strong>Reto Codeable:</strong> Crear una aplicación "Mis Notas" que permita ver notas creadas, crear nuevas y eliminarlas.<br><strong>Funcionalidad adicional:</strong> Edición de nota.</p>
-      <p><em>Uso de HTML, CSS y Javascript puro.</em></p>
-      <p><em><strong>Estado del proyecto: </strong>Terminado</em></p>
-      <p><em><strong>Fecha finalización: </strong>julio 2024</em></p>
+      <p><strong>Codeable Challenge:</strong> Create a "My Notes" application that allows viewing created notes, creating new ones, and deleting them.<br><strong>Additional functionality:</strong> Note editing.</p>
+      <p><em>Use of HTML, CSS, and pure Javascript.</em></p>
+      <p><em><strong>Project Status: </strong>Completed</em></p>
+      <p><em><strong>Completion Date: </strong>July 2024</em></p>
     </li>
     <li>
       <h3 >
-        <a href="https://github.com/gavrojas/AgendaTelefonica">Sistema de agenda teléfonica</a>
+        <a href="https://github.com/gavrojas/AgendaTelefonica">Phonebook System</a>
       </h3>
-      <p><strong>Hackaton de Java - Generation Colombia. </strong>Crear un sistema que permita gestionar una agenda telefónica.<br>Funcionalidades: Añadir, buscar, eliminar, validar existencia de contactos, revisar espacio en agenda.</p>
-      <p><em>Uso de Java.</em></p>
-      <p><em><strong>Estado del proyecto: </strong>Terminado</em></p>
-      <p><em><strong>Fecha finalización: </strong>junio 2024</em></p>
-      <p><em><strong>Equipo: </strong>Yineth Duarte, Sara Salazar, Gabriela Rojas</em></p>
+      <p><strong>Java Hackathon - Generation Colombia.</strong> Create a system that allows managing a phonebook.<br>Functionalities: Add, search, delete, validate contact existence, check space in the phonebook.</p>
+      <p><em>Use of Java.</em></p>
+      <p><em><strong>Project Status: </strong>Completed</em></p>
+      <p><em><strong>Completion Date: </strong>June 2024</em></p>
+      <p><em><strong>Team: </strong>Yineth Duarte, Sara Salazar, Gabriela Rojas</em></p>
     </li>
   </ul>
 </div>
