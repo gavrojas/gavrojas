@@ -52,8 +52,8 @@
           <li><em></strong>Database: </strong></em>PostgreSQL</li>
           <li><em></strong>Deployment: </strong></em>Docker, AWS EC2, Vercel</li>
         </ul>
-      <p><em><strong>Project Status: </strong>Terminado</em></p>
-      <p><em><strong>Completion Date: </strong>noviembre 2024</em></p>
+      <p><em><strong>Project Status: </strong>Completed</em></p>
+      <p><em><strong>Completion Date: </strong>November 2024</em></p>
       <a href="https://trucode-final-challenge-gavrojas.vercel.app">Deployment page</a>
     </li>
     <li>
