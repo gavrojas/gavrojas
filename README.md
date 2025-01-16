@@ -27,6 +27,21 @@
   <ul>
     <li>
       <h3 >
+        <a href="https://github.com/gavrojas/swe-challenge-zinc">ZincSearch email indexer challenge</a>
+      </h3>
+      <p>This project aims to index and visualize an email database from the Enron Corp dataset using ZincSearch as the search engine. The application allows users to search and view emails through a simple web interface.</p>
+      <h4>Implemented Technologies</h4>
+        <ul>
+          <li><em></strong>Frontend: </strong></em>Vue 3, Pinia, Vue Router, Vuetify, Tailwind CSS</li>
+          <li><em></strong>Backend: </strong></em>Go, Chi</li>
+          <li><em></strong>Database: </strong></em>ZincSearch</li>
+          <li><em></strong>Deployment: </strong></em>Docker, AWS EC2, Vercel</li>
+        </ul>
+      <p><em><strong>Project Status: </strong>In progress</em></p>
+      <a href="https://swe-challenge-zinc-gavrojas.vercel.app/">Deployment page</a>
+    </li>
+    <li>
+      <h3 >
         <a href="https://github.com/gavrojas/trucode3-challenge-final-codeable">Final Challenge Bootcamp Trucode</a>
       </h3>
       <p>The application is designed to <strong>manage data from a dataset created by Barry Becker based on a 1994 census containing over 30,000 records with demographic data</strong>, which is necessary to understand what types of people earned more or less than $50,000 USD, among other things.</p>
