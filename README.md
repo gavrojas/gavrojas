@@ -37,7 +37,8 @@
           <li><em></strong>Database: </strong></em>ZincSearch</li>
           <li><em></strong>Deployment: </strong></em>Docker, AWS EC2, Vercel</li>
         </ul>
-      <p><em><strong>Project Status: </strong>In progress</em></p>
+      <p><em><strong>Project Status: </strong>Completed</em></p>
+      <p><em><strong>Completion Date: </strong>January 2025</em></p>
       <a href="https://swe-challenge-zinc-gavrojas.vercel.app/">Deployment page</a>
     </li>
     <li>
